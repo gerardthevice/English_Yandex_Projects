@@ -1,11 +1,12 @@
-**Исследование надежности заемщиков**
+# **Research of reliability of bank borrowers**
 
-*Задача*: На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок
+*Task*: Based on the statistics on the solvency of clients, investigate whether the marital status and the number of children of the client affect the fact of timely repayment of the loan 
 
-*Инструменты*: python, pandas, исследовательский анализ данных, предобработка данных
+*Tools*: python, pandas, exploratory data analysis, data preprocessing
 
-Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
+The customer is the credit department of a bank. It is necessary to understand whether the marital status and the number of children of the client affect the fact of repayment of the loan on time. The initial data of the bank is based on the statistics on the solvency of customers.
 
-Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
+The results of the study will be taken into account when building a credit scoring model — a special system that evaluates the ability of a potential borrower to repay a loan to a bank.
 
-*Выврды:* Наличие детей и семейное положение, а также доход и цель кредита не влияют на возврат кредита в срок. 
+**Conclusions**: Children and marital status, as well as income and the purpose of the loan do not affect timely repayment of the loan.
+
