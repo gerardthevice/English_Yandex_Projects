@@ -1,21 +1,15 @@
-**Музыка больших городов**
+# **Music of big cities**
 
-*Задача*: На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга.
+*Task*: Using real Yandex.Music data with the help of the Pandas library and its capabilities, check the data and compare the behavior and preferences of users of two capitals — Moscow and St. Petersburg.
 
-Сравнение Москвы и Петербурга окружено мифами:
+The comparison of Moscow and St. Petersburg is surrounded by myths:
 
-Москва — мегаполис, подчинённый жёсткому ритму рабочей недели;
-Петербург — город своеобразной культуры, непохожий на Москву.
-Некоторые мифы отражают действительность. Другие — пустые стереотипы. Бизнес должен отличать первые от вторых, чтобы принимать рациональные решения. На реальных данных Яндекс.Музыки вы проверите гипотезы и сравните поведение пользователей двух столиц.
+Moscow is a megapolis, subject to the tough rhythm of the working week; St. Petersburg, unlike Moscow, is a city of peculiar culture, Some myths reflect reality. Others are empty stereotypes. Business must distinguish the former from the latter in order to make rational decisions. Using real Yandex.Music data, I will test hypotheses and compare the behaviorHypotheses
 
-**Гипотезы**
+User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg, this manifests itself in different ways. On Monday morning, some genres of music prevail in Moscow, and others in St. Petersburg. This is also true for Friday night. Moscow and St. Petersburg prefer different genres of music. In Moscow, pop music is more often listened to, in St. Petersburg - Russian rap. Thus, the study will take place in three stages:
 
-Активность пользователей зависит от дня недели. Причём в Москве и Петербурге это проявляется по-разному.
-Утром в понедельник в Москве преобладают одни жанры музыки, а в Петербурге — другие. Это верно и для вечера пятницы.
-Москва и Петербург предпочитают разные жанры музыки. В Москве чаще слушают поп-музыку, в Петербурге — русский рэп.
-Таким образом, исследование пройдёт в три этапа:
-* Обзор данных.
-* Предобработка данных.
-* Проверка гипотез.
+* Data overview
+* Data preprocessing
+* Hypothesis testing
 
-*Выводы:* Гипотеза частично подтвердилась: поп-музыка — самый популярный жанр в Москве, как и предполагалось. В топ-10 жанров встречается близкий жанр — русская популярная музыка. Рэп одинаково популярен в Москве и Петербурге.
+**Conclusions**: The hypothesis was partially confirmed: pop music is the most popular genre in Moscow, as expected. In the top 10 genres there is a similar genre — Russian popular music. Rap is equally popular in Moscow and St. Petersburg. of users of the two capitals.Music of big cities.
