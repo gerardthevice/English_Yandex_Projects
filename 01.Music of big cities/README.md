@@ -12,4 +12,4 @@ User activity depends on the day of the week. Moreover, in Moscow and St. Peters
 * Data preprocessing
 * Hypothesis testing
 
-**Conclusions**: The hypothesis was partially confirmed: pop music is the most popular genre in Moscow, as expected. In the top 10 genres there is a similar genre — Russian popular music. Rap is equally popular in Moscow and St. Petersburg. of users of the two capitals.Music of big cities.
+**Conclusions**: The hypothesis was partially confirmed: pop music is the most popular genre in Moscow, as expected. In the top 10 genres there is a similar genre — Russian popular music. Rap is equally popular in Moscow and St. Petersburg. of users of the two capitals.Music of big cities
