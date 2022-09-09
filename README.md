@@ -7,17 +7,19 @@ Data analysis projects
 
 ## Description of the projects:
 
-1)	**Music of big cities**\
+1)	[**Music of big cities**](https://github.com/gerardthevice/English_Yandex_Projects/tree/main/01.Music%20of%20big%20cities)\
 *Task*: Using real Yandex.Music data check the data and compare the behavior and preferences of users of two capitals — Moscow and St. Petersburg. The project was done with the help of the Pandas library and its capabilities\
 *Tools*: python, pandas, exploratory data analysis, data preprocessing
 
-2)	**Research of the reliability of bank borrowers**\
+2)	[**Research of the reliability of bank borrowers**](https://github.com/gerardthevice/English_Yandex_Projects/tree/main/02.Research%20of%20reliability%20of%20borrowers)\
 *Task*: Based on statistics on the solvency of clients, to investigate whether the marital status and the number of children of the client affect the fact of repayment of the loan on time\
 *Tools*: python, pandas, exploratory data analysis, data preprocessing
 
-3)	**Research of ads for the sale of apartments**\
+3)	[**Research of ads of appartments for sale**](https://github.com/gerardthevice/English_Yandex_Projects/tree/main/03.Research%20of%20ads%20of%20appartments%20for%20sale)\
 *Task*: Using Yandex service data.Real estate, determine the market value of real estate unit and typical parameters of apartments\
 *Tools*: python, pandas, matplotlib, seaborn, scipy, stats, exploratory data analysis, data preprocessing
+
+Translation of other projects is in progress. Please, click [here](https://github.com/gerardthevice/Yandex_Projects) to check.
 
 4)	**Choosing a prospective tariff of a telecom company**\
 *Task*: Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff\
