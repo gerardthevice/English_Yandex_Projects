@@ -1,11 +1,12 @@
-**Исследование объявлений о продаже квартир**
+# **Research of ads of appartments for sale**
 
-*Задача*: Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир
+*Task*: Using Yandex service data.Real estate determine the market value and typical parameters of real estate units.
 
-*Инструменты*: python, pandas, matplotlib, seaborn, scipy, stats, исследовательский анализ данных, предобработка данных
+*Tools*: python, pandas, matplotlib, seaborn, scipy, stats, exploratory data analysis, data preprocessing
 
-В распоряжении данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно определить рыночную стоимость объектов недвижимости. Наша задача — установить параметры. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.
+The research is based on the data of  the Yandex service. It is an archive of ads of apartments for sale in St. Petersburg and neighboring settlements for several years. It is necessary to determine the market value of real estate units. Our task is to set the parameters. This will allow  to build an automated system with a goal to track anomalies and fraud activity.
 
-По каждой квартире на продажу доступны два вида данных. Первые вписаны пользователем, вторые получены автоматически на основе картографических данных. Например, расстояние до центра, аэропорта, ближайшего парка и водоёма.
+There are two types of data available for each apartment for sale. The first ones are filled in  by the user, the second ones are obtained automatically based on cartographic data. For example, the distance to the center, the airport, the nearest park or pond.
 
-*Выводы:*  Факторы, влияющие на стоимость квартир: количество комнат, удаленность от центра, этаж (кроме центра). 
+*Conclusions*: Factors affecting the cost of apartments: the number of rooms, distance from the center, floor (except for the apartments in the center).
+
