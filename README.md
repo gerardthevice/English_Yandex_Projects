@@ -19,11 +19,11 @@ Data analysis projects
 *Task*: Using Yandex service data.Real estate, determine the market value of real estate unit and typical parameters of apartments\
 *Tools*: python, pandas, matplotlib, seaborn, scipy, stats, exploratory data analysis, data preprocessing
 
-Translation of other projects is in progress. Please, click [here](https://github.com/gerardthevice/Yandex_Projects) to check.
-
-4)	**Choosing a prospective tariff of a telecom company**\
+4)	[**Choosing a prospective tariff of a telecom company**](https://github.com/gerardthevice/English_Yandex_Projects/blob/main/04.Choosing%20a%20prospective%20tariff%20for%20a%20telecom%20company/264b0e52-ee53-4b12-a9e0-a2024247e860%20(4).ipynb)\
 *Task*: Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff\
 *Tools*: python, pandas, matplotlib, seaborn, scipy, stats, exploratory data analysis, data preprocessing
+
+Translation of other projects is in progress. Please, click [here](https://github.com/gerardthevice/Yandex_Projects) to check.
 
 5)	**Research of the market of computer games**\
 *Task*: Using historical data on sales of computer games (user and expert ratings, genres and platforms) to identify patterns that determine the success of the game\
