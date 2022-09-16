@@ -1,9 +1,10 @@
-**Определение перспективного тарифа телеком-компании**
+**Choosing a prospective tariff for a telecom company**
 
-*Задача*: На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа
+*Task*: Based on the data of the mobile operator's customers, analyze the behavior of the customers and find the optimal tariff
 
-*Иструменты*: python, pandas, matplotlib, seaborn, scipy, stats, исследовательский анализ данных, предобработка данных
+*Tools*: python, pandas, matplotlib, seaborn, scipy, stats, exploratory data analysis, data preprocessing
 
-В нашем распоряжении данные компании «Мегалайн» — федерального оператора сотовой связи. Клиентам предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. Необходимо сделать предварительный анализ тарифов на небольшой выборке клиентов. В нашем распоряжении данные 500 пользователей «Мегалайна»: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018 год. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
+At our disposal there is data of Megaline, a federal mobile operator. Customers are offered two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the commercial department wants to understand which tariff brings in more money. It is necessary to make a preliminary analysis of tariffs on a small sample of customers. We have the data of 500 Megalyne users at our disposal: who they are, where they come from, what tariff they use, how many calls and messages each sent in 2018. It is necessary to analyze the behavior of customers and conclude which tariff is better.
 
-*Выводы:* пользователи тарифа smart пользуются услугами пропорционально меньше, чем пользователи ultra; выручка в Москве и регионах не отличается. Таким образом, можно сказать, что тариф ultra лучше.
+*Conclusions*: smart tariff users use the services proportionally less than ultra users; the revenue in Moscow and the regions does not differ. Thus, we can say that the ultra tariff is better.
+
