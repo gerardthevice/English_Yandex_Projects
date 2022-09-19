@@ -23,11 +23,11 @@ Data analysis projects
 *Task*: Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff\
 *Tools*: python, pandas, matplotlib, seaborn, scipy, stats, exploratory data analysis, data preprocessing
 
-Translation of other projects is in progress. Please, click [here](https://github.com/gerardthevice/Yandex_Projects) to check.
-
-5)	**Research of the market of computer games**\
+5)	[**Research of the market of computer games**](https://github.com/gerardthevice/English_Yandex_Projects/tree/main/05.Research%20of%20the%20market%20of%20computer%20games)\
 *Task*: Using historical data on sales of computer games (user and expert ratings, genres and platforms) to identify patterns that determine the success of the game\
 *Tools*: python, pandas, matplotlib, seaborn, numpy, datetime,scipy, exploratory data analysis, data preprocessing
+
+Translation of other projects is in progress. Please, click [here](https://github.com/gerardthevice/Yandex_Projects) to check.
 
 6)	**Analysis of business indicators**\
 *Task*: A task for a marketing analyst of an entertainment app called Procrastinate Pro+ . Despite huge investments in advertising, the company has been suffering losses for the past few months. The task is to understand the reasons and help the company to start getting profit. To do this, various metrics were calculated, cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, WAU, etc. Previously written metric calculation functions were used. Correct conclusions have been drawn based on the data obtained\
