@@ -1,11 +1,13 @@
-**Сборный проект 1**
+**Research of the market of computer games**
 
-*Задача*: Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры
+*Task*: Using historical data on sales of computer games such as user and expert ratings, genres and platforms,  identify patterns that determine the success of the game
 
-*Инструменты*: python, pandas, matplotlib, seaborn, numpy, datetime,scipy, исследовательский анализ данных, предобработка данных
+*Tools*: python, pandas, matplotlib, seaborn, numpy, datetime,scipy, exploratory data analysis, data preprocessing
 
-Интернет-магазине «Стримчик» продаёт по всему миру компьютерные игры. Из открытых источников доступны данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. Перед нами данные до 2016 года. Представим, что сейчас декабрь 2016 г., и мы планируем кампанию на 2017-й. Необходимо отработать принцип работы с данными.
+The online store "Stream" sells computer games all over the world. The following data on game sales is available: user and expert ratings, genres and platforms (for example, Xbox or PlayStation). It is necessary to identify patterns that determine the success of the game. This will allow us to bet on a potentially popular product and plan advertising campaigns. We have data before 2016. Let's imagine that it's December 2016, and we are planning a campaign for 2017. It is necessary to work out the principle of working with the data.
 
-*Выводы:* По итогам статистического анализа подтвердилась гипотеза, что пользовательский рейтинг у Xbox One и PC одинаковый, и что пользовательский рейтинг жанров Action и Sports разный.
+*Conclusions*: Based on the results of statistical analysis, the hypothesis was confirmed that the user rating of Xbox One and PC is the same, and that the user rating of the Action and Sports genres is different.
 
-Для прогнозов потенциально популярного продукта и планирования рекламной кампании, необходимо учитывать,  в каких регионах какие платформы сейчас популярны, а также какие жанры предпочитает целевая аудитория в конкретном регионе.
+To forecast a potentially popular product and plan an advertising campaign, it is necessary to take into account in which regions which platforms are currently popular, as well as which genres the target audience prefers in a particular region.
+
+
