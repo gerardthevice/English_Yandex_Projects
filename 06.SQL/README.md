@@ -1,16 +1,11 @@
 **SQL**
 
-*Задача*: Проанализировать БД SQL сервиса для чтения книг по подписке
+*Task*: To analyze the SQL database of the service for reading books by subscription
 
-*Инструменты*: python, pandas, sqlalchemy, SQL
+Tools: python, pandas, sqlalchemy, SQL
 
-Коронавирус застал мир врасплох, изменив привычный порядок вещей. В свободное время жители городов больше не выходят на улицу, не посещают кафе и торговые центры. Зато стало больше времени для книг. Это заметили стартаперы — и бросились создавать приложения для тех, кто любит читать.
+The coronavirus took the world by surprise, changing the usual order of things. In their free time, residents of cities no longer go outside, do not visit cafes and shopping centers. But there is more time for books. Startups noticed this and rushed to create apps for those who like to read.
 
-Наша компания решила быть на волне и купила крупный сервис для чтения книг по подписке.
+Our company decided to be on the wave and bought a large subscription-based book reading service.
 
-Задачи:
-
-проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг.
-сформулировать ценностное предложение для нового продукта.
-
-*Выводы:* По итогам анализа, видно, что пользователи охотно читают фантастику. При этом, они активно оставляют отзывы и оценивают книги. Возможно, хорошей идеей было бы увеличить разнообразие книг этого жанра, так как в пандемию людям все чаще хочется уходить от реальности. Также можно было бы поработать над смежными жанрами, типа детектив-фантастика и проч.
+*Conclusions*: Based on the results of the analysis, it is clear that users are willing to read fiction. At the same time, they actively leave reviews and  books. Perhaps it would be a good idea to increase the variety of books in this genre, since in the pandemic people increasingly want to escape from reality. It would also be possible to work on related genres, such as detective fiction and so on.
